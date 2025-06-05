@@ -20,3 +20,4 @@ if __name__ == "__main__":
             print(f"The factorial of {number} is {factorial(number)}")
     except ValueError:
         print("Please enter a valid integer.")
+#this code is perfect
